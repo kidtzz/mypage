@@ -1,5 +1,5 @@
 baseURL: "https://kidtz.netlify.app/"
-title: kidtz
+title: Arch-Kidtz.dev
 paginate: 5
 theme: PaperMod
 
@@ -64,9 +64,9 @@ params:
         enabled: true # needs to be explicitly set
         title: Bangkit Prasetyo
         subtitle: "Development Operations | Software Engineer | Software Support Engineer "
-        imageUrl: "<img location>"
-        imageWidth: 120
-        imageHeight: 120
+        imageUrl: "coding.gif"
+        imageWidth: 150
+        imageHeight: 150
         imageTitle: my image
         buttons:
             - name: Posts
