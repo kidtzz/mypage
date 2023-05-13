@@ -2,6 +2,8 @@
 title: ""
 date: ""
 draft: false
+ShareButtons: [""]
+hideMeta: true
 
 
 ---

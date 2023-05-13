@@ -14,6 +14,10 @@ googleAnalytics: UA-123-45
 minify:
     disableXML: true
     minifyOutput: true
+    
+taxonomies:
+    tag: tags
+    category: categories
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -27,7 +31,6 @@ params:
     defaultTheme: auto # dark, light
     disableThemeToggle: false
 
-    ShowReadingTime: true
     ShowShareButtons: true
     ShowPostNavLinks: true
     ShowBreadCrumbs: false
@@ -38,7 +41,6 @@ params:
     disableSpecial1stPost: false
     disableScrollToTop: false
     comments: false
-    hidemeta: false
     hideSummary: false
     showtoc: false
     tocopen: false
@@ -61,7 +63,7 @@ params:
     profileMode:
         enabled: true # needs to be explicitly set
         title: Bangkit Prasetyo
-        subtitle: "This is subtitle"
+        subtitle: "Development Operations | Software Engineer | Software Support Engineer "
         imageUrl: "<img location>"
         imageWidth: 120
         imageHeight: 120
@@ -78,10 +80,10 @@ params:
         Content: Recent college graduate with a degree in informatics engineering. I am very passionate about IT and Web programming. I am an energetic programmer skilled in web design and development with a strong curiosity. I like to learn something new in my life, especially about IT and programming languages.
 
     socialIcons:
-        - name: twitter
-          url: "https://twitter.com/"
+        - name: LinkedIn
+          url: "https://linkedin.com/in/bangkit-prasetyo/"
         - name: instagram
-          url: "https://instagram.com/kidtz"
+          url: "https://instagram.com/kidtzz_"
         - name: github
           url: "https://github.com/kidtzz"
 
@@ -99,8 +101,6 @@ params:
         hiddenInSingle: true # hide on single page
 
     editPost:
-        hidden: true
-        enabled: false 
         URL: "https://github.com/<path_to_repo>/content"
         Text: "" # edit text
         appendFilePath: true # to append file path to Edit link
