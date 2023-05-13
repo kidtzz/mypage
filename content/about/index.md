@@ -1,11 +1,12 @@
 ---
-title: About
-date: 2020-06-18T22:45:06+02:00
+title: 
+date: 2023-05-13T10:20:05+07:00
 draft: false
-author: Bangkit Prasteyo
 ---
 
-Hello,
+
+
+# Hello,
 
 Call me **Bangkit Prasetyo** & nice to meet you all, this is a personal website that contains my learning summaries, stories and more.
 
