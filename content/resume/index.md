@@ -1,7 +1,9 @@
 ---
-title: "Resume"
-date: 2023-05-13T10:18:29+07:00
+title: ""
+date: ""
 draft: false
+
+
 ---
 
 ## Bangkit Prasetyo

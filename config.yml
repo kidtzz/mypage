@@ -10,6 +10,7 @@ buildExpired: false
 
 googleAnalytics: UA-123-45
 
+
 minify:
     disableXML: true
     minifyOutput: true
@@ -17,9 +18,9 @@ minify:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Kidtz
-    description: "Kidtz description"
-    keywords: [Blog, Portfolio, PaperMod]
-    author: Me
+    description: "Personal Website"
+    keywords: [Devops, Web Developer, Software Developer]
+    author: Bangkit Prasetyo
     # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
     DateFormat: "January 2, 2006"
@@ -58,8 +59,8 @@ params:
 
     # profile-mode
     profileMode:
-        enabled: false # needs to be explicitly set
-        title: ExampleSite
+        enabled: true # needs to be explicitly set
+        title: Bangkit Prasetyo
         subtitle: "This is subtitle"
         imageUrl: "<img location>"
         imageWidth: 120
@@ -67,7 +68,7 @@ params:
         imageTitle: my image
         buttons:
             - name: Posts
-              url: posts
+              url: /posts/
             - name: Tags
               url: tags
 
@@ -98,8 +99,10 @@ params:
         hiddenInSingle: true # hide on single page
 
     editPost:
+        hidden: true
+        enabled: false 
         URL: "https://github.com/<path_to_repo>/content"
-        Text: "Suggest Changes" # edit text
+        Text: "" # edit text
         appendFilePath: true # to append file path to Edit link
 
     # for search
@@ -118,9 +121,9 @@ menu:
           name: About
           url: /about/
           weight: 10
-        - identifier: post
-          name: Post
-          url: /post/
+        - identifier: posts
+          name: Posts
+          url: /posts/
           weight: 20
         - identifier: project
           name: Project
