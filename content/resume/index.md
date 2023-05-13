@@ -61,7 +61,8 @@ Cloud Engineer & Highly motivated to learn something new. interested in Cloud, T
 **PT. Bank Mandiri**\
 *July 2022 – Desember 2022*\
     *Product: BMC Remedy IT Service Management Suite v19.08*\
-    *Responsibility: Team Member*
+    *Responsibility: Team Member*\
+    *Location : Plaza Mandiri*
 
 -   Provide BMC Remedy IT Service Management based on new requirement
 -   Integrate Asset Management to other system
@@ -69,14 +70,16 @@ Cloud Engineer & Highly motivated to learn something new. interested in Cloud, T
 **PT. Bank Negara Indonesia**\
 *Desember 2022 – Present*\
     *Product: BMC Remedy v20.02*\
-    *Responsibility: Team Member*
+    *Responsibility: Team Member*\
+    *Location : Menara BNI Pejompongan*
 
 -   Implementasi Piloting IT Asset Management & Configuration Management Database
 
 **PT. Bank Rakyat Indonesia**\
 *August 2022 – Present*\
     *Product: BMC Remedy v20.02*\
-    *Responsibility: Team Member*
+    *Responsibility: Team Member*\
+    *Location : GTI Ragunan*
 
 -   Pengadaan Solusi IT Asset Management (ITAM) Dan Configuration Management Database (CMDB
 -   Integrate BMC Remedy IT Service Management to the other System using Restful API and SOAP Web Service
@@ -86,6 +89,17 @@ Cloud Engineer & Highly motivated to learn something new. interested in Cloud, T
 ## Founder
 Founder Library - **Manggala Pustaka**
 *August 2021 - Present*
+
+*The Manggala Pustaka Library is the brainchild of the people in the Manggal hamlet, especially the village youths. TBM itself is engaged in the field, especially children. The activities of TBM include coloring classes, recitation classes, archery classes, art classes, as well as emergency classes which are held when school children are online, not only for children, activities that lead to the community, such as health checks, discussions about modern agriculture. as well as other positive activities in order to improve the economy and community empowerment*\
+
+To become a library that cultivates people's love of reading and enriches people's insight through books.\
+
+-   Providing quality books
+-   As a container for creative ideas from the community
+-   Realizing creative ideas from the community
+-   Making a quality society, in terms of education, culture and economy
+-   Become a friendly forum that bridges the implementation of positive activities that are  
+-   self-developmental
 
 
 ## Projects
