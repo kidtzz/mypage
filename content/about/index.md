@@ -1,24 +1,12 @@
 ---
-title: "About"
-date: 2023-05-11T19:29:12+07:00
+title: About
+date: 2020-06-18T22:45:06+02:00
 draft: false
+author: Bangkit Prasteyo
 ---
 
-# markdown
+Hello,
 
-ajsdjashjd
+Call me **Bangkit Prasetyo** & nice to meet you all, this is a personal website that contains my learning summaries, stories and more.
 
-## summary
-
--   beton gorey
--   sering bergitu
--   uh uh uh
-
-> block cok lorem imsum dolor
-
-## table, code block and tast list
-
-## Name | Job
-
-Alex | Web developer
-beton | sys admin
+I got the principle of continuous learning at my current company, namely Btech.id, because nothing is impossible as long as we try.
