@@ -21,7 +21,7 @@ hideMeta: true
 
 Hello!, I'm **Bangkit Prasetyo**
 
-Cloud Engineer & Highly motivated to learn something new. interested in Cloud, Telco, DevSecOps, Infrastructure especially about Cloud Native (Kubernetes, Istio, Grafana, etc), 5G Cloud Native and more.
+DevOps Engineer & Highly motivated to learn something new. interested in Cloud, Web/App programming, Security, Infrastructure especially about Development Engineer (Kubernetes,Docker,Python, Grafana, Linux SysAdmin etc).
 
 &nbsp;
 
@@ -81,7 +81,7 @@ Cloud Engineer & Highly motivated to learn something new. interested in Cloud, T
     *Responsibility: Team Member*\
     *Location : GTI Ragunan*
 
--   Pengadaan Solusi IT Asset Management (ITAM) Dan Configuration Management Database (CMDB
+-   Pengadaan Solusi IT Asset Management (ITAM) Dan Configuration Management Database (CMDB)
 -   Integrate BMC Remedy IT Service Management to the other System using Restful API and SOAP Web Service
 
 
@@ -103,7 +103,32 @@ To become a library that cultivates people's love of reading and enriches people
 
 
 ## Projects
+**Information System Manggala-Pustaka**\
+*October 2021 – Present*\
 
+-   Dynamic Website Projects with Laravel and Reactjs
+
+## Training
+
+**Cyber Security Operation** - *2021*\
+*organizer: Fresh Graduate Academy Digital Talent Scholarship 2021*
+
+**Front end Developer** - *2022*\
+*organizer: Fresh Graduate Academy Digital Talent Scholarship 2022*
+
+## Organization Experiance
+
+**Dorm Team Telkom University**\
+*November 2017 – April 2018*
+
+-   Develop work programs and activities. 
+-   Carry out the planned program.
+-   Coordinate the tasks given by the general chairman
+
+## Certificate
+
+-   **Cyber Security Operations Fresh Graduate Academy Digital Talent Scholarship Program As Participant** - *September 2021*
+-   **Front End Developer (HTML, CSS, JavaScript) in the Digital Talent Scholarship Program As Participant** - *April 2022*
 
 --- 
 
