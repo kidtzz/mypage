@@ -130,6 +130,14 @@ To become a library that cultivates people's love of reading and enriches people
 -   **Cyber Security Operations Fresh Graduate Academy Digital Talent Scholarship Program As Participant** - *September 2021*
 -   **Front End Developer (HTML, CSS, JavaScript) in the Digital Talent Scholarship Program As Participant** - *April 2022*
 
+
+## Additional Skills
+
+-   Familiar with Scripting and Working in a Linux Environment.
+-   Knowledge using a package manager Yarn and NPM.
+-   Good communication and Able to work individually or team
+-   Strong in analyzing, critically thinking and Excellent -    troubleshooting skill
+-   Experience With GIT
 --- 
 
 I the undersigned, certify that:
