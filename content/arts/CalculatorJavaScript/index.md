@@ -7,4 +7,6 @@ ShareButtons: ["linkedin","whatsapp","twitter"]
 ShowReadingTime: true
 ---
 
+Demo => https://kidtzz.github.io/Fe-Calculator-js/
 
+![CalculatorJavaScript](./CalculatorJavaScript.png)
