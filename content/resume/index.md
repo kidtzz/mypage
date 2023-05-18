@@ -21,7 +21,7 @@ hideMeta: true
 
 Hello!, I'm **Bangkit Prasetyo**
 
-DevOps Engineer & Highly motivated to learn something new. interested in Cloud, Web/App programming, Security, Infrastructure especially about Development Engineer (Kubernetes,Docker,Python, Grafana, Linux SysAdmin etc).
+Development Operations Engineer & Highly motivated to learn something new. interested in Cloud, Web/App programming, Security, Infrastructure especially about Development Engineer (Kubernetes, Docker, Python, Linux SysAdmin, WebDevetc).
 
 &nbsp;
 
