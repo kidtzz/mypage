@@ -7,7 +7,7 @@ ShareButtons: ["linkedin","whatsapp","twitter"]
 ShowReadingTime: true
 ---
 
-**vscode beautiful setup settings.json **
+**vscode beautiful setup settings.json**
 
 ```
 {
