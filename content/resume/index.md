@@ -40,24 +40,6 @@ Development Operations Engineer & Highly motivated to learn something new. inter
 -   Preparing documentation and presenting progress reports to customers.
 -   Organizing training for users and other consultants.
 
-**Freelance Web Developer**, Exclolab\
-*April 2022 – Present*
-
--   Prolific skills with HTML, CSS, Less, Bootstrap, and JavaScript
--   Web API integration RESTFULJSON
--   working with JavaScript and WordPress
--   Create responsive web and interactive displays
-
-**Internship**, PT. Telkom Indonesia (Semarang)\
-*July 2020 – August 2020*
-
--   Support service improvement activities and software monitoring
--   Software purchase advice and social media advertising
--   Working to manage customer data
--   Make a website landing page as an advertising service
-
-## Projects Experiance
-
 **PT. Bank Mandiri**\
 *July 2022 – Desember 2022*\
     *Product: BMC Remedy IT Service Management Suite v19.08*\
@@ -83,6 +65,22 @@ Development Operations Engineer & Highly motivated to learn something new. inter
 
 -   Pengadaan Solusi IT Asset Management (ITAM) Dan Configuration Management Database (CMDB)
 -   Integrate BMC Remedy IT Service Management to the other System using Restful API and SOAP Web Service
+
+**Freelance Web Developer**, Exclolab\
+*April 2022 – Present*
+
+-   Prolific skills with HTML, CSS, Less, Bootstrap, and JavaScript
+-   Web API integration RESTFULJSON
+-   working with JavaScript and WordPress
+-   Create responsive web and interactive displays
+
+**Internship**, PT. Telkom Indonesia (Semarang)\
+*July 2020 – August 2020*
+
+-   Support service improvement activities and software monitoring
+-   Software purchase advice and social media advertising
+-   Working to manage customer data
+-   Make a website landing page as an advertising service
 
 
 

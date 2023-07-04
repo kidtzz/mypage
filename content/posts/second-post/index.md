@@ -2,7 +2,10 @@
 title: "Second Post"
 date: 2023-05-13T10:19:43+07:00
 draft: false
-
+tags: [myvscode]
+ShareButtons: ["linkedin","whatsapp","twitter"]
+ShowReadingTime: true
 ---
 
-this second post
+second post my vscode setup 
+![vscodesetup-second](./vscodesetup-second.png)
