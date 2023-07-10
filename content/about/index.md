@@ -9,7 +9,7 @@ hideMeta: true
 
 
 
-### Hello,e
+### Hello
 
 Call me **Bangkit** & nice to meet you all, this is a personal website that contains my learning summaries, stories and more.
 
