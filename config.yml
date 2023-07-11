@@ -62,7 +62,7 @@ params:
     # profile-mode
     profileMode:
         enabled: true # needs to be explicitly set
-        title: Prast
+        title: Rasty
         subtitle: "Development Operations | Software Engineer | Software Support Engineer "
         imageUrl: "coding.gif"
         imageWidth: 150
