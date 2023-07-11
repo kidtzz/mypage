@@ -8,7 +8,7 @@ hideMeta: true
 
 ---
 
-## kidtz
+## My Profile
 
 ---
 - E-Mail: bangkitpr4@gmail.com
