@@ -8,7 +8,7 @@ hideMeta: true
 
 ---
 
-## Bangkit Prasetyo
+## kidtz
 
 ---
 - E-Mail: bangkitpr4@gmail.com
@@ -21,7 +21,7 @@ hideMeta: true
 
 Hello!, I'm **Bangkit Prasetyo**
 
-Development Operations Engineer & Highly motivated to learn something new. interested in Cloud, Web/App programming, Security, Infrastructure especially about Development Engineer (Kubernetes, Docker, Python, Linux SysAdmin, WebDevetc).
+Development Operations Engineer & Highly motivated to learn something new. interested in Cloud, Web/App programming, Security, Infrastructure especially about Development Engineer (Kubernetes, Docker, Python, Linux, WebDev, etc).
 
 &nbsp;
 
