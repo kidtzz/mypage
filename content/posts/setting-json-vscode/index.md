@@ -11,7 +11,6 @@ ShowReadingTime: true
 
 ```
 {
-  "glassit.alpha": 245,
   "workbench.sideBar.location": "right",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorTheme": "Monokai Pro",
@@ -72,12 +71,39 @@ ShowReadingTime: true
   "[javascript, javascriptreact, typescript, scss, jsonc]": {
     "editor.formatOnSave": false
   },
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "~/../css/"
+    },
+    {
+      "extensionName": ".min.css",
+      "format": "compressed",
+      "savePath": "~/../css/"
+    }
+  ],
   "autoprefixer.options": {
     "browsers": [
       "last 4 versions",
       "ie >= 9",
       "> 5%"
     ]
-  }
+  },
+  "background.windowBackgrounds": [
+    "/home/kidtz/Pictures/Wallpapers/wallpaperflare.com_wallpaper.jpg"
+  ],
+  "background.backgroundBlur": [
+    "80",
+    "0",
+    "0",
+    "0"
+  ],
+  "background.backgroundOpacity": [
+    0.83,
+    0.9,
+    0.9,
+    0.9
+  ]
 }
 ```
