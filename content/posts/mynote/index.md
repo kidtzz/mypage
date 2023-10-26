@@ -22,3 +22,7 @@ ShowReadingTime: true
     bahwa sesungguhnya, pertolongan Allah hanya berjarak
     kening dan sajadah "
   ```
+
+  ```
+  " You thinking  so much, "
+  ```
