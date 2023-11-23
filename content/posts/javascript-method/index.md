@@ -9,7 +9,7 @@ ShowReadingTime: true
 
 
 
-**Java Script Method**
+**JavaScript Method**
 
 1. **Array Methods**
    
