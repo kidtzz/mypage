@@ -164,3 +164,7 @@ ShowReadingTime: true
     ```
     console.log(): 
     ```
+
+6. **Embed Javasript Docs**
+
+    {{< embed-pdf url="./javascript_docs.pdf" >}}
