@@ -68,9 +68,8 @@ Development Operations Engineer & Highly motivated to learn something new. inter
 
 **Freelance Web Developer**, Exclolab\
 *April 2022 – Present*
-
 -   Prolific skills with HTML, CSS, Less, Bootstrap, and JavaScript
--   Web API integration RESTFULJSON
+-   Web API integration (RESTFUL/JSON)
 -   working with JavaScript and WordPress
 -   Create responsive web and interactive displays
 
@@ -114,6 +113,9 @@ To become a library that cultivates people's love of reading and enriches people
 **Front end Developer** - *2022*\
 *organizer: Fresh Graduate Academy Digital Talent Scholarship 2022*
 
+**Alibaba Cloud Associate** - *2023*\
+*PROA Digital Talent Scholarship 2023*
+
 ## Organization Experiance
 
 **Dorm Team Telkom University**\
@@ -132,7 +134,7 @@ To become a library that cultivates people's love of reading and enriches people
 ## Additional Skills
 
 -   Familiar with Scripting and Working in a Linux Environment.
--   Knowledge using a package manager Yarn and NPM.
+-   Knowledge using a ETL Developer.
 -   Good communication and Able to work individually or team
 -   Strong in analyzing, critically thinking and Excellent -    troubleshooting skill
 -   Experience With GIT
