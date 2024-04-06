@@ -40,6 +40,26 @@ become a programming professional & Highly motivated to learn something new. int
 -   Preparing documentation and presenting progress reports to customers.
 -   Organizing training for users and other consultants.
 
+**Freelance Web Developer**, Exclolab\
+*April 2022 – Present*
+-   Prolific skills with HTML, CSS, Less, Bootstrap, and JavaScript
+-   Web API integration (RESTFUL/JSON)
+-   working with JavaScript and WordPress
+-   Create responsive web and interactive displays
+
+**Internship**, PT. Telkom Indonesia (Semarang)\
+*July 2020 – August 2020*
+
+-   Support service improvement activities and software monitoring
+-   Software purchase advice and social media advertising
+-   Working to manage customer data
+-   Make a website landing page as an advertising service
+
+
+&nbsp;
+
+***---- Experience Project Based as Technical Consultant -----***
+
 **PT. Bank Mandiri**\
 *July 2022 – Desember 2022*\
     *Product: BMC Remedy IT Service Management Suite v19.08*\
@@ -96,20 +116,6 @@ become a programming professional & Highly motivated to learn something new. int
 
 
 
-**Freelance Web Developer**, Exclolab\
-*April 2022 – Present*
--   Prolific skills with HTML, CSS, Less, Bootstrap, and JavaScript
--   Web API integration (RESTFUL/JSON)
--   working with JavaScript and WordPress
--   Create responsive web and interactive displays
-
-**Internship**, PT. Telkom Indonesia (Semarang)\
-*July 2020 – August 2020*
-
--   Support service improvement activities and software monitoring
--   Software purchase advice and social media advertising
--   Working to manage customer data
--   Make a website landing page as an advertising service
 
 
 
@@ -157,9 +163,10 @@ To become a library that cultivates people's love of reading and enriches people
 
 ## Certificate
 
--   **Cyber Security Operations Fresh Graduate Academy Digital Talent Scholarship Program As Participant** - *September 2021*
+-   **Cyber Security Operations in Cisco Networking Academy As Participant** - *September 2021*
 -   **Front End Developer (HTML, CSS, JavaScript) in the Digital Talent Scholarship Program As Participant** - *April 2022*
-
+-   **Alibaba Cloud Certified Associate in Alibaba Cloud** - *August 2023*
+-   **DevNet Associate in Cisco Networking Academy** - *March 2024* 
 
 ## Additional Skills
 
