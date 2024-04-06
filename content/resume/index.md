@@ -41,7 +41,7 @@ become a programming professional & Highly motivated to learn something new. int
 -   Organizing training for users and other consultants.
 
 **Freelance Web Developer**, Exclolab\
-*April 2022 – Present*
+*April 2022 – June 2023*
 -   Prolific skills with HTML, CSS, Less, Bootstrap, and JavaScript
 -   Web API integration (RESTFUL/JSON)
 -   working with JavaScript and WordPress
