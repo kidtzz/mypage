@@ -21,7 +21,7 @@ hideMeta: true
 
 Hello!, I'm **Bangkit Prasetyo**
 
-Development Operations Engineer & Highly motivated to learn something new. interested in Cloud, Web/App programming, Security, Infrastructure especially about Development Engineer (Kubernetes, Docker, Python, Linux, WebDev, etc).
+become a programming professional & Highly motivated to learn something new. interested in Cloud, Web/mobile programming, Security, Infrastructure especially about (Python, Linux, WebDev, SQL Query etc).
 
 &nbsp;
 
@@ -58,13 +58,43 @@ Development Operations Engineer & Highly motivated to learn something new. inter
 -   Implementasi Piloting IT Asset Management & Configuration Management Database
 
 **PT. Bank Rakyat Indonesia**\
-*August 2022 – Present*\
+*August 2022 – juni 2023*\
     *Product: BMC Remedy v20.02*\
     *Responsibility: Team Member*\
     *Location : GTI Ragunan*
 
--   Pengadaan Solusi IT Asset Management (ITAM) Dan Configuration Management Database (CMDB)
+-   Procurement of IT Asset Management (ITAM) and Configuration Management Database (CMDB) Solutions
 -   Integrate BMC Remedy IT Service Management to the other System using Restful API and SOAP Web Service
+
+**Direktorat Jendral Pajak (DJP)**\
+*Juli 2023 – Oktober 2023*\
+    *Product: BMC Remedy v20.01, BMC Discovery 21.0*\
+    *Responsibility: Team Member*\
+    *Location : DKI Jakarta*
+
+-   Procurement of IT Service Management (ITSM) Solutions
+-   Development of BMC Discovery
+
+
+**BPJS Kesehatan**\
+*Januari 2024 – April 2024*\
+    *Product: BMC Helix Remedy v24.0, BMC Helix Discovery 23.0*\
+    *Responsibility: Team Member*\
+    *Location : DKI Jakarta*
+
+-   Procurement of Renewal Maintenance Subscription and ITSM Tools Application Support
+-   Development of BMC Helix Discovery and Service Model
+
+**SMART Sinarmas**\
+*Maret 2024 – Present*\
+    *Product: BMC Helix Remedy v24.0 Saas Platform, BMC Helix Discovery 23.0 Saas Platform*\
+    *Responsibility: Team Member*\
+    *Location : DKI Jakarta*
+
+-   Migration to BMC Helix Saas
+-   Development of BMC Helix Discovery and Service Model
+
+
 
 **Freelance Web Developer**, Exclolab\
 *April 2022 – Present*
