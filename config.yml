@@ -66,7 +66,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Rasty
-    subtitle: "Development Operations | Software Engineer | Software Support Engineer "
+    subtitle: "Development Operations | Software Product | Software Engineer | Software Support Engineer "
     imageUrl: "coding.gif"
     imageWidth: 150
     imageHeight: 150
