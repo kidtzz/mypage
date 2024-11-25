@@ -11,15 +11,13 @@ hideMeta: true
 ## My Profile
 
 ---
-- E-Mail: bangkitpr4@gmail.com
 - Website: https://kidtz.netlify.app/
-- LinkedIn: https://linkedin.com/in/bangkit-prasetyo/
 - GitHub: https://github.com/kidtz/
 
 ---
 &nbsp;
 
-Hello!, I'm **Bangkit Prasetyo**
+Hello
 
 become a programming professional & Highly motivated to learn something new. interested in Cloud, Web/mobile programming, Security, Infrastructure especially about (Python, Linux, WebDev, SQL Query etc).
 
