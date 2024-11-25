@@ -27,7 +27,7 @@ params:
   title: Kidtz
   description: "Personal Website"
   keywords: [Devops, Web Developer, Software Developer]
-  author: Bangkit Prasetyo
+  author: kidtz
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -84,7 +84,7 @@ params:
 
   socialIcons:
     - name: LinkedIn
-      url: "https://linkedin.com/in/bangkit-prasetyo/"
+      url: "https://linkedin.com/in/kidtzz/"
     - name: instagram
       url: "https://instagram.com/kidtzz_"
     - name: github
